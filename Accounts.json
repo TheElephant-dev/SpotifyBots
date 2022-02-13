@@ -1,0 +1,59 @@
+{
+    "Accounts": [
+        {
+			"Email": "emailadressofaccount_1@domain.com",
+			"Password": "passwordadressofaccount_1",
+			"ProxyIP": "86.46.169.12 <----- Example IP"
+		},
+		{
+			"Email": "emailadressofaccount_2@domain.com",
+			"Password": "passwordadressofaccount_2",
+			"ProxyIP": "proxyipadressofbot"
+		},
+		{
+			"Email": "emailadressofaccount_3@domain.com",
+			"Password": "passwordadressofaccount_3",
+			"ProxyIP": "proxyipadressofbot"
+		},
+		{
+			"Email": "emailadressofaccount_4@domain.com",
+			"Password": "passwordadressofaccount_4",
+			"ProxyIP": "proxyipadressofbot"
+		},
+		{
+			"Email": "emailadressofaccount_5@domain.com",
+			"Password": "passwordadressofaccount_5",
+			"ProxyIP": "proxyipadressofbot"
+		},
+		{
+			"Email": "emailadressofaccount_6@domain.com",
+			"Password": "passwordadressofaccount_6",
+			"ProxyIP": "proxyipadressofbot"
+		},
+		{
+			"Email": "emailadressofaccount_7@domain.com",
+			"Password": "passwordadressofaccount_7",
+			"ProxyIP": "proxyipadressofbot"
+		},
+		{
+			"Email": "emailadressofaccount_8@domain.com",
+			"Password": "passwordadressofaccount_8",
+			"ProxyIP": "proxyipadressofbot"
+		},
+		{
+			"Email": "emailadressofaccount_9@domain.com",
+			"Password": "passwordadressofaccount_9",
+			"ProxyIP": "proxyipadressofbot"
+		},
+		{
+			"Email": "emailadressofaccount_10@domain.com",
+			"Password": "passwordadressofaccount_10",
+			"ProxyIP": "proxyipadressofbot"
+		},
+		{
+			"Email": "emailadressofaccount_11@domain.com",
+			"Password": "passwordadressofaccount_11",
+			"ProxyIP": "proxyipadressofbot"
+		}
+    ]
+}
